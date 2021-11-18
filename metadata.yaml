@@ -1,0 +1,30 @@
+_repo: Augustus-The-Life-and-Times-of-the-Founder-of-the-Roman-Empire_66609
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shuckburgh, Evelyn S. (Evelyn Shirley)
+    aliases:
+    - Shuckburgh, Evelyn Shirley
+    - Shuckburgh, E. S. (Evelyn Shirley)
+    birthdate: 1843
+    deathdate: 1906
+    gutenberg_agent_id: '1033'
+    url: http://www.gutenberg.org/2009/agents/1033
+    wikipedia: https://en.wikipedia.org/wiki/Evelyn_Shirley_Shuckburgh
+description: ''
+gutenberg_issued: '2021-10-25'
+identifiers:
+  gutenberg: '66609'
+  lccn: '03014564'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Augustus, Emperor of Rome, 63 B.C.-14 A.D.'
+- !lcsh 'Rome -- History -- Augustus, 30 B.C.-14 A.D.'
+- !lcsh 'Emperors -- Rome -- Biography'
+- !lcc 'DG'
+- GITenberg
+title: 'Augustus: The Life and Times of the Founder of the Roman Empire'
+url: http://www.gutenberg.org/ebooks/66609
